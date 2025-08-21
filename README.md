@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="snake.svg" alt="Snake animation" />
+<img src="workflows/snake.svg" alt="Snake animation" />
 
 ###
