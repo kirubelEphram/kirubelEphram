@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="workflows/snake.svg" alt="Snake animation" />
+<img src="[workflows/snake.svg](https://raw.githubusercontent.com/kirubelEphram/kirubelEphram/output/snake.svg)" alt="Snake animation" />
 
 ###
